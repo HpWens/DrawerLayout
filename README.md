@@ -581,5 +581,5 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 
-[源码请关注我的github](https://github.com/HpWens/DrawerLayout)
+http://blog.csdn.net/u012551350/article/details/51601985
 
