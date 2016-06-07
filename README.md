@@ -581,5 +581,5 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 
-http://blog.csdn.net/u012551350/article/details/51601985
+敬请关注：http://blog.csdn.net/u012551350/article/details/51601985
 
